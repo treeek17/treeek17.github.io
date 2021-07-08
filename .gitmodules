@@ -1,0 +1,3 @@
+[submodule "treeek17.github.io/themes/mini"]
+	path = treeek17.github.io/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
